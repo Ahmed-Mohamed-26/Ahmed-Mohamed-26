@@ -42,14 +42,6 @@
 
 ###
 
-<img align="right" height="157" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp2M3h6dHBrNWdxaTBta3M4ejQ3MXVrcmlyZ3ljbWo1Y3dyb2cwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Ahmed-Mohamed-26/Ahmed-Mohamed-26/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
